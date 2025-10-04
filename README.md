@@ -7,8 +7,6 @@
 
 - 🛡️ Certified in **Denodo**, with strong foundations in systems, networks, and databases  
 
-- 👨‍💻 Check out my projects here: [https://github.com/xcotelo](https://github.com/xcotelo)  
-
 - 💬 Ask me about **Linux, Python, Java, SQL, Networking, Security Tools (Burp Suite, Nmap, Metasploit, Wireshark, SQLmap, Hydra)**  
 
 - 🧩 Currently practicing on **Hack The Box** by solving machines (Linux & Windows), applying techniques such as privilege escalation, web exploitation, and lateral movement.  
