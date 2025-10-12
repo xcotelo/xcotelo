@@ -12,9 +12,6 @@
 - 🧩 Currently practicing on **Hack The Box** by solving machines (Linux & Windows), applying techniques such as privilege escalation, web exploitation, and lateral movement.  
   *(Some writeups and notes will be available soon on my GitHub 👨‍💻)*  
 
-- 📫 How to reach me: **xcotelov@gmail.com**  
-
-- ⚡ Fun fact: **I break things to learn how to fix them 🔐**  
 
 ---
 
