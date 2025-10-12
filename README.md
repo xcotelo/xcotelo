@@ -1,4 +1,4 @@
-t<h1 align="center">Hi 👋, I'm Xián Cotelo Varela 🦊</h1>
+<h1 align="center">Hi 👋, I'm Xián Cotelo Varela 🦊</h1>
 
 <div align="center">
 <a href="https://git.io/typing-svg">
