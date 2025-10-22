@@ -31,3 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcotelo&layout=compact" alt="xcotelo" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=xcotelo&show_icons=true" alt="xcotelo" /></p>
+
+[![Mi perfil HTB](/assets/htb-card.svg)](https://app.hackthebox.com/profile/2442181)
