@@ -22,10 +22,15 @@
 
 <h3 align="left">🔗 Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/xián-cotelo-varela-240a50371" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Xián Cotelo Varela" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/xián-cotelo-varela-240a50371" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <a href="https://app.hackthebox.com/profile/2442181" target="_blank" rel="noopener noreferrer" title="Hack The Box">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/hackthebox.svg" alt="Hack The Box" height="30" width="40" style="margin-left:8px"/>
+  </a>
 </p>
+
 
 ---
 
