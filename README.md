@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xián Cotelo Varela 🦊</h1>
+<h1 align="center">Hi 👋, I'm Xián 🦊</h1>
 
 <div align="center">
 <a href="https://git.io/typing-svg">
@@ -8,15 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xcotelo" alt="xcotelo" /> </p>
 
-- 🌱 I’m currently Currently finishing his degree in Computer Engineering at the UDC and learning **Pentesting, Ethical Hacking, and Cybersecurity frameworks (OWASP, PTES, OSSTMM)**  
+- 🌱 I’m currently Currently finishing his degree in Computer Engineering at the UDC and specialicing in **Red Team**  
 
-- 🛡️ Certified in **Denodo**, with strong foundations in systems, networks, and databases  
+- 🧩 Currently practicing on **Hack The Box** by solving machines (Linux & Windows) and doing writeups about them.
 
-- 💬 I have hands-on experience with: **Linux, Python, Java, SQL, Networking, Security Tools (Burp Suite, Nmap, Metasploit, Wireshark, SQLmap, Hydra)**  
-
-- 🧩 Currently practicing on **Hack The Box** by solving machines (Linux & Windows), applying techniques such as privilege escalation, web exploitation, lateral movement ...  
-  *(Some writeups and notes will be available soon on my GitHub 👨‍💻)*  
-
+- 🛡️ Certifications:
+  - Denodo AI SDK Certified Developer Associate
+  - Denodo Platform 9 Certified Administrator Associate
+  - Denodo Platform 9 Certified Developer Associate
+  - Denodo Platform 9 Certified Architect Associate
 
 ---
 
