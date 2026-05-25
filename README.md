@@ -1,4 +1,4 @@
-<h1 align="center">Xián Cotelo</h1>
+<h1 align="center">xcotelo</h1>
 
 <div align="center">
 <a href="https://git.io/typing-svg">
