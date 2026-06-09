@@ -16,6 +16,8 @@
   <br/><br/>
 </div>
 
+[![HackTheBox](https://img.shields.io/badge/-HackTheBox-111927?logo=hackthebox&logoColor=9FEF00)]([https://app.hackthebox.com/profile/tuusuario](https://app.hackthebox.com/public/users/2442181))
+
 ---
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xcotelo&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
