@@ -8,15 +8,15 @@
 
 - 🌱 Estudante de Enxeñaría Informática na UDC, especializado en **Tecnoloxias da Información (TI)**.  
 - Actualmente rematando o título e aprendendo **ciberseguridade ofensiva**.
-
+- 
 <div align="left">
   <br/>
   <img src="https://komarev.com/ghpvc/?username=xcotelo&color=green" alt="xcotelo" />
-  <img src="https://img.shields.io/badge/-Pentesting-FF0000?style=flat-square&logo=kalilinux&logoColor=white" />
+  <a href="https://app.hackthebox.com/public/users/2442181">
+    <img src="https://img.shields.io/badge/-HackTheBox-111927?style=flat-square&logo=hackthebox&logoColor=9FEF00" />
+  </a>
   <br/><br/>
 </div>
-
-[![HackTheBox](https://img.shields.io/badge/-HackTheBox-111927?logo=hackthebox&logoColor=9FEF00)]([https://app.hackthebox.com/profile/tuusuario](https://app.hackthebox.com/public/users/2442181))
 
 ---
 
