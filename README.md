@@ -6,7 +6,13 @@
 </a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xcotelo&color=green" alt="xcotelo" /> </p>
+
+<div align="left">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=xcotelo&color=green" alt="xcotelo" />
+  <img src="https://img.shields.io/badge/-Pentesting-FF0000?style=flat-square&logo=kalilinux&logoColor=white" />
+  <br/><br/>
+</div>
 
 - 🌱 Estudante de Enxeñaría Informática na UDC, especializado en **Tecnoloxias da Información (TI)**.  
 - Actualmente rematando o título e aprendendo **ciberseguridade ofensiva**.
