@@ -7,8 +7,8 @@
 </div>
 
 - 🌱 Estudante de Enxeñaría Informática na UDC, especializado en **Tecnoloxias da Información (TI)**.  
-- Actualmente rematando o título e aprendendo **ciberseguridade ofensiva**.
-- 
+- 🔐 Actualmente rematando o título e aprendendo **ciberseguridade ofensiva**.
+  
 <div align="left">
   <br/>
   <img src="https://komarev.com/ghpvc/?username=xcotelo&color=green" alt="xcotelo" />
