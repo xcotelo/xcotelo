@@ -1,4 +1,4 @@
-<h1 align="center">xcotelo</h1>
+<h1 align="center">X.Cotelo</h1>
 
 <div align="center">
 <a href="https://git.io/typing-svg">
@@ -6,10 +6,13 @@
 </a>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xcotelo" alt="xcotelo" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xcotelo&color=green" alt="xcotelo" /> </p>
 
-- 🌱 Actualmente estou rematando o título en Enxeñaría Informática na UDC e especializado en **Tecnoloxias da Información (TI)**.  
+- 🌱 Estudante de Enxeñaría Informática na UDC, especializado en **Tecnoloxias da Información (TI)**.  
+- Actualmente rematando o título e aprendendo **ciberseguridade ofensiva**.
 
 ---
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcotelo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xcotelo&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
