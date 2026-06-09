@@ -1,4 +1,4 @@
-<h1 align="center">X.Cotelo</h1>
+<h1 align="center">X. Cotelo</h1>
 
 <div align="center">
 <a href="https://git.io/typing-svg">
@@ -6,6 +6,8 @@
 </a>
 </div>
 
+- 🌱 Estudante de Enxeñaría Informática na UDC, especializado en **Tecnoloxias da Información (TI)**.  
+- Actualmente rematando o título e aprendendo **ciberseguridade ofensiva**.
 
 <div align="left">
   <br/>
@@ -14,11 +16,6 @@
   <br/><br/>
 </div>
 
-- 🌱 Estudante de Enxeñaría Informática na UDC, especializado en **Tecnoloxias da Información (TI)**.  
-- Actualmente rematando o título e aprendendo **ciberseguridade ofensiva**.
-
 ---
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xcotelo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=xcotelo&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
